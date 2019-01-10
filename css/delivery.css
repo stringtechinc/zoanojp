@@ -1,0 +1,38 @@
+      html {
+        height: 100%;
+      }
+
+      body {
+        padding: 0;
+        margin: 0;
+        height: 100%;
+        box-sizing: border-box;
+        background-color: #3524fb;
+        background-image: none;
+        background-repeat: no-repeat;
+        border-style: none;
+        border-width: 0px;
+        border-color: #0006c2;
+      }
+
+      div.dlvmain {
+        height: 100%;
+        font-weight: normal;
+        color: #fff;
+        font-size: 12px;
+        font-family: "メイリオ";
+      }
+
+      span#orderDate {
+        font-weight: normal;
+        color: #fff;
+        font-size: 12px;
+        font-family: "メイリオ";
+      }
+
+      span#deliveryDate {
+        font-weight: normal;
+        color: #fff;
+        font-size: 17px;
+        font-family: "メイリオ";
+      }
